@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_account_circle_24.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_add.xml" value="0.2385" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_home_24.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_notifications_24.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_baseline_search_24.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1905" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/ic_others.xml" value="0.365" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/drawable/icon_bg.xml" value="0.181" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/font/open_sans_bold.xml" value="0.1" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/font/open_sans_regular.xml" value="0.1" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/font/open_sans_semibold.xml" value="0.21822916666666667" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_login.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_main.xml" value="0.17831813576494426" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_main2.xml" value="0.18802083333333333" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_main3.xml" value="0.2598958333333333" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_pdf.xml" value="0.278125" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_register.xml" value="0.33" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/activity_splash.xml" value="0.16869300911854104" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/content_empty_state_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/content_income2.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/content_income_expense_card_layout.xml" value="0.33" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/dashboard.xml" value="0.25848032564450474" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/fragment_add2.xml" value="0.22" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/fragment_home2.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/fragment_notification2.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/fragment_profile.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/fragment_search2.xml" value="0.22" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/item_transaction_layout.xml" value="0.23229166666666667" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/item_ventas.xml" value="0.38181818181818183" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/layout_items.xml" value="0.23229166666666667" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/login.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/register.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/layout/total_balance_view.xml" value="0.23229166666666667" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/menu/menu.xml" value="0.36666666666666664" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/mipmap-anydpi-v26/ic_contigope.xml" value="0.206" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/mipmap-anydpi-v26/ic_contigope5.xml" value="0.206" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/mipmap-anydpi-v26/ic_contigope5_round.xml" value="0.206" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/mipmap-anydpi-v26/ic_contigope_round.xml" value="0.206" />
+        <entry key="..\:/BottomNavigationViews-master/BottomNavigationViews-master/app/src/main/res/xml/file_provider_path.xml" value="0.278125" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" project-jdk-name="1.8" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
